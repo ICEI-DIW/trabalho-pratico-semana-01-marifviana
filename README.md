@@ -7,7 +7,7 @@ Nome: Mariana Fonseca Viana
 Matricula: 1444672
 
 ## Tela de inspeção com navegador
-<img src="tela portal do aluno puc.png">
+<img src="tela portal do aluno puc .png">
 
 ## Tela de projeto no Replit
 <img src="tela primeiro site repl.it.png">
